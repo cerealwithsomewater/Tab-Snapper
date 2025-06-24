@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Tab Snapper",
+  "version": "1.0",
+  "description": "Save and restore all your open tabs with one click.",
+  "permissions": [
+    "tabs",
+    "storage"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/snap16.png",
+      "48": "icons/snap48.png",
+      "128": "icons/snap128.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
