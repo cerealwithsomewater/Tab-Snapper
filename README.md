@@ -27,7 +27,7 @@ One-click snapshots of all your open Chrome tabs—and restore them anytime.
 1. **Clone the repo**
 
     ```bash
-    git clone https://github.com/your-username/tab-snapper.git
+    git clone https://github.com/cerealwithsomewater/tab-snapper.git
     ```
 
 2. **Open Chrome Extensions**
@@ -101,4 +101,4 @@ tab-snapper/
 
 ## 📄 License
 
-MIT © 2025 [Your Name]
+MIT © 2025 CerealWithSomeWater
